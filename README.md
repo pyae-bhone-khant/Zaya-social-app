@@ -1,18 +1,5 @@
 <!-- Banner Image Placeholder -->
-![Social Hub Banner](https://via.placeholder.com/1200x400/667eea/ffffff?text=Social+Hub+-+Modern+Social+Media+Platform)
-
-<div align="center">
-
-# 🌟 Social Hub
-
-*A modern, responsive social media platform built with React and Material-UI*
-
-[![React](https://img.shields.io/badge/React-18.2.0-61dafb?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![Material-UI](https://img.shields.io/badge/Material--UI-7.3.7-0081cb?style=flat-square&logo=mui&logoColor=white)](https://mui.com/)
-[![Vite](https://img.shields.io/badge/Vite-5.0.8-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-
----
+backend-api -https://github.com/pyae-bhone-khant/Zaya-social-api.git
 
 ## 📝 Project Description
 
@@ -89,9 +76,6 @@ Social Hub is a feature-rich social media application that provides users with a
 ### **User Profile**
 ![Profile Page](https://via.placeholder.com/800x500/1e1e2e/f1f5f9?text=User+Profile+Page)
 
----
-Backend Api Link 
-https://github.com/pyae-bhone-khant/social-api
 
 ## 🚀 Getting Started
 
@@ -191,7 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **GitHub Issues** - Report bugs and request features
-- **Email** - your-email@example.com
+- **Email** - pyaebhonen4@gmail.com
 
 
 ---
@@ -201,5 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ Star this repository if it helped you!**
 
 Made with ❤️ by [Pyae Bhone Khant](https://github.com/pyae-bhone-khant)
+
+backend-api - https://github.com/pyae-bhone-khant/Zaya-social-api.git
 
 </div>

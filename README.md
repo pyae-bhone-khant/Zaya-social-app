@@ -62,20 +62,6 @@ Social Hub is a feature-rich social media application that provides users with a
 
 ---
 
-## 📸 Screenshots & Demo
-
-### **Desktop View**
-![Desktop Dashboard](https://via.placeholder.com/800x500/1e1e2e/f1f5f9?text=Desktop+Dashboard+View)
-
-### **Mobile Responsive**
-![Mobile View](https://via.placeholder.com/400x700/1e1e2e/f1f5f9?text=Mobile+Responsive+View)
-
-### **Dark Mode**
-![Dark Theme](https://via.placeholder.com/800x500/0f0f23/f1f5f9?text=Dark+Mode+Interface)
-
-### **User Profile**
-![Profile Page](https://via.placeholder.com/800x500/1e1e2e/f1f5f9?text=User+Profile+Page)
-
 
 ## 🚀 Getting Started
 
